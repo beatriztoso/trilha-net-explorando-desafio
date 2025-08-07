@@ -1,8 +1,5 @@
 # DIO - Trilha .NET - Explorando a linguagem C#
-www.dio.me
-
-## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de explorando a linguagem C#, da trilha .NET da DIO.
+Este projeto é a solução para o desafio da trilha C# .NET da DIO, implementada com lógica de programação, princípios de POO e tratamento de exceções, atendendo aos requisitos do desafio com código claro e simplificado.
 
 ## Contexto
 Você foi contratado para construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel. Você precisará usar a classe Pessoa, que representa o hóspede, a classe Suíte, e a classe Reserva, que fará um relacionamento entre ambos.
